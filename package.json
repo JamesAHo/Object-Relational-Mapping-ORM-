@@ -1,0 +1,28 @@
+{
+  "name": "object-relational-mapping-orm-",
+  "version": "1.0.0",
+  "description": "ORM Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesAHo/Object-Relational-Mapping-ORM-.git"
+  },
+  "author": "JamesAHo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesAHo/Object-Relational-Mapping-ORM-/issues"
+  },
+  "homepage": "https://github.com/JamesAHo/Object-Relational-Mapping-ORM-#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
+    "sequelize": "^6.21.3"
+  }
+}
