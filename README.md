@@ -18,7 +18,7 @@ The purpose of this application is to test routes
 
 
 ## Installation
- Connect to mysql by setting your local sever. Then,npm install all the dependencies and run "node index.js" to start
+ Connect to mysql by setting your local sever. First, "npm run seed" then "npm start".
  
 
 ## Usage 
