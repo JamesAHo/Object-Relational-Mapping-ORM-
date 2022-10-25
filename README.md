@@ -4,7 +4,7 @@ Using Insomnia to operate CRUD operations.
 
 ## User Story
 
-As a developer, i would like to create a functional website with proper routes and operate CRUD operations.
+SQL Ecomerce database design
 
 ## Description
 
